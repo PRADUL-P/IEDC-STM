@@ -460,11 +460,11 @@ a.view:hover {
     -ms-transition: 0.5s all;
 }
 /*-- //Model --*/
-/*-- //News --*/
+
 /*--gallery--*/
 .gallery{background: url(../images/123.jpeg)no-repeat center;
     background-size: cover;}
-.gallery-grid{padding:0;}
+.gallery-grid{padding: 10px;;}
 	/*--gallery--*/
 /*--contact--*/
 .contact-form{width:50%;
